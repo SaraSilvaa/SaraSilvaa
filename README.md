@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou a Sara Martins
 
 💻 Desenvolvedora Front-end apaixonada por tecnologia e resolução de problemas
-🎓 Estudante de Desenvolvimento de Software
+🎓 Graduada em Desenvolvimento de Software Multiplataforma
 🚀 Focada em criar aplicações modernas, intuitivas e escaláveis
 
 ---
