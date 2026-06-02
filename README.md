@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        Olá me chamo Sara Martins  ✦                  ║
-║        Full-Stack Developer                          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/✦%20sara%20martins-front--end%20developer-2D6A4F?style=for-the-badge&labelColor=d8f3dc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=2D6A4F&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Transformo+ideias+em+interfaces+que+funcionam.;Front-End+%7C+React+%7C+React+Native+%7C+Golang)](https://git.io/typing-svg)
 
@@ -62,7 +55,6 @@ produtos digitais que resolvam problemas de verdade.
 
 | projeto | descrição | stack |
 |--------|-----------|-------|
-| [📦 App Controle de Patrimônio](https://github.com/sarasilvaa) | App móvel para gestão de ativos com QR Code · TCC FATEC | React Native · Flutter |
 | [🌐 Portfólio](https://github.com/sarasilvaa) | Site pessoal com seções de skills, projetos e experiência | HTML · CSS · JS |
 
 ---
@@ -73,7 +65,7 @@ produtos digitais que resolvam problemas de verdade.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-martins)
 [![Email](https://img.shields.io/badge/Email-2D6A4F?style=flat-square&logo=gmail&logoColor=white)](mailto:sarams@hotmail.com.br)
-[![Portfolio](https://img.shields.io/badge/Portfólio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/sarasilvaa)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1a1a1a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/saramartins)
 
 </div>
 
