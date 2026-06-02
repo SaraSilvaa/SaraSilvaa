@@ -56,7 +56,6 @@ produtos digitais que resolvam problemas de verdade.
 | projeto | descrição | stack |
 |--------|-----------|-------|
 | [🌐 Portfólio](https://github.com/sarasilvaa) | Site pessoal com seções de skills, projetos e experiência | HTML · CSS · JS |
-| [🍿 Clone NetFlix]([https://github.com/sarasilvaa](https://github.com/SaraSilvaa/Clone-Netflix.git)) | Site pessoal com seções de skills, projetos e experiência | HTML · CSS · JS |
 
 ---
 
