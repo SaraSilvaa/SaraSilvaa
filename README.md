@@ -55,7 +55,7 @@ produtos digitais que resolvam problemas de verdade.
 
 | projeto | descrição | stack |
 |--------|-----------|-------|
-| [🌐 Portfólio](https://github.com/sarasilvaa) | Site pessoal com seções de skills, projetos e experiência | HTML · CSS · JS |
+| [🌐 Portfólio](https://portifolio-sarasilvaa.vercel.app/) | Site pessoal com seções de skills, projetos e experiência | HTML · CSS · JS |
 
 ---
 
