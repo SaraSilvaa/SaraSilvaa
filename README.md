@@ -3,8 +3,8 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║        hi, i'm Sara Martins  ✦                       ║
-║        front-end developer                           ║
+║        Olá me chamo Sara Martins  ✦                  ║
+║        Full-Stack Developer                          ║
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
