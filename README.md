@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/✦%20sara%20martins-front--end%20developer-2D6A4F?style=for-the-badge&labelColor=d8f3dc" />
+<img src="https://img.shields.io/badge/✦%20sara%20martins-full--stack%20developer-2D6A4F?style=for-the-badge&labelColor=d8f3dc" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=16&duration=3000&pause=800&color=2D6A4F&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Transformo+ideias+em+interfaces+que+funcionam.;Front-End+%7C+React+%7C+React+Native+%7C+Golang)](https://git.io/typing-svg)
 
